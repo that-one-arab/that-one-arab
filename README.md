@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi 👋</h1> 
 <h2 align="center"> my name is Muhammed Al-Dulaimi </h2> 
-I'm a software developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, NodeJS and PostgresQL, but I am also experienced with other stacks such as GraphQL, MongoDB, jQuery etc... 
+I'm a software developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, NodeJS and PostgresQL, but I also have experience with other tools and stacks. 
 
 I love learning and discovering new things, and contributing my knowledge and experience into creating tools that makes peoples' lives a tiny bit easier.
 
